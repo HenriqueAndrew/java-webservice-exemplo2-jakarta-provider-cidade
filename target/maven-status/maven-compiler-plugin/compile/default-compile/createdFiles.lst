@@ -1,0 +1,5 @@
+br/data/crud/CrudCidade.class
+br/data/model/Cidade.class
+br/resources/JavaEE8Resource.class
+br/JAXRSConfiguration.class
+br/rest/CidadeResource.class
